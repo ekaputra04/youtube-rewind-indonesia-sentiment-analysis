@@ -1,0 +1,10 @@
+1. cleansing data
+2. preprocessing
+   - normalisasi
+   - stopword
+   - tokenize
+   - stemming
+3. translate
+4. labeling
+5. visualisasi
+6. klasifikasi sentimen
