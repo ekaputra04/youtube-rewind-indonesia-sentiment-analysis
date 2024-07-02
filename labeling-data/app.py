@@ -5,7 +5,7 @@ import pandas as pd
 
 # Nama database dan collection
 db_name = 'youtube_rewind_indonesia'
-collection_name = 'labeling_2018' # Ganti dengan nama collection yang ingin dilabel
+collection_name = 'full_labeling_all_new'
 
 # Memuat value dari file .env
 load_dotenv()
